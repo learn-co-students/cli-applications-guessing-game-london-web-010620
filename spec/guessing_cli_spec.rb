@@ -1,6 +1,6 @@
 require_relative 'spec_helper'
 
-describe "Guessing CLI" do
+describe "Guessing CLI" do 
 
   context 'user inputs' do
     it "responds to 'exit'" do
